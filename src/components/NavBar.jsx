@@ -17,8 +17,8 @@ const NavBar= () => {
     return (
         <> 
         <NavbarDiv >
-            <a href="/">HOME</a> 
-            <a href="">Movies</a> <a href="">Login</a><a href="">Bookings</a>
+            <a href="./Home.jsx">HOME</a> 
+            <a href="">Movies</a> <a href="./Login.jsx">Login</a><a href="">Bookings</a>
             
         </NavbarDiv>
         </>
