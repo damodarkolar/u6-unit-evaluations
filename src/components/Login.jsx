@@ -6,6 +6,7 @@ const Login= () => {
         <Navbar>
 
         </Navbar>
+        <h1>Login</h1>
         </>
     )
 }
